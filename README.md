@@ -5,7 +5,12 @@
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **Universidade Tiradentes (UNIT)**
 
-🌐 **Residente em tecnologia no Porto Digital**, onde estou imerso em um ecossistema de inovação e aprendizado constante.  
+🌐 **Residente em tecnologia no Porto Digital**, onde estou imerso em um ecossistema de inovação e aprendizado constante. 
+
+## Porfólio UX/UI Design 
+
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/juanandr)  
+
 
 ## 🚀 Skills
 
