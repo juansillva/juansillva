@@ -40,6 +40,9 @@
 <div style="display: flex;">
   <img style="margin-right: 2rem;" height="180em"src="https://github-readme-stats.vercel.app/api?username=juansillva&show_icons=true&theme=transparent">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juansillva&layout=compact)
+  
+
 </div>
 
 ## 📫 **Vamos colaborar?**  
