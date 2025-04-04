@@ -2,13 +2,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Olá,+sou+Juan!;Front-End+Developer;UI%2FUX+Designer&color=e5e5e5&background=2e2e2e" alt="Typing SVG" />
 </p>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/juansillva/juansillva/blob/output/github-contribution-grid-snake.gif" />
-</picture> 
-</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/juansillva/juansillva/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/juansillva/juansillva/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/juansillva/juansillva/blob/output/github-contribution-grid-snake.gif" />
+  </picture>
+</div>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,sass,java,figma,git&theme=dark" alt="Skills" />
