@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Olá,+sou+Juan!;Front-End+Developer;UI%2FUX+Designer&color=e5e5e5&background=2e2e2e" alt="Typing SVG" />
 </p>
 
-![snake gif](https://github.com/juansillva/juansillva/blob/output/github-contribution-grid-snake.svg)
+# ![snake gif](https://github.com/juansillva/juansillva/blob/output/github-contribution-grid-snake.gif)
 
 ![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,html,css,sass,java,figma,git&theme=dark)
 
