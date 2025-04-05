@@ -6,6 +6,9 @@
 
 
 <p align="center">
+<img src="https://github.com/juansillva/juansillva/blob/output/github-snake-dark.svg" />
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,sass,java,figma,git&theme=dark" alt="Skills" />
 </p>
 
