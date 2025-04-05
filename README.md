@@ -9,9 +9,6 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/juansillva/juansillva/blob/output/github-snake-dark.svg" />
-</p>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,sass,java,figma,git&theme=dark" alt="Skills" />
 </p>
 
@@ -26,8 +23,6 @@
     width="320"
   />
 </div>
-
-
 
 
 <p align="center"> <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-2e7db2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/Gmail-e44848?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
