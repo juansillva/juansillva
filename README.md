@@ -16,13 +16,13 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/juuanandre/">
-        <img src="./assets/linkedin-brands (1).svg" alt="LinkedIn" width="24"/>
+        <img src="./assets/linkedin-brands (1).svg" width="24"/>
     </a>
        <a href="mailto:juuanandre722@gmail.com?subject=Contato%20via%20site&body=Olá%20Juan%2C%20gostaria%20de%20falar%20sobre...">
-        <img src="./assets/envelope-solid (1).svg" alt="Gmail" width="26"/>
+        <img src="./assets/envelope-solid (1).svg" width="26"/>
     </a>
        <a href="https://www.behance.net/juanandr">
-        <img src="./assets/behance-brands.svg" alt="Behance" width="32" />
+        <img src="./assets/behance-brands.svg"  width="32" />
     </a>
  </div>
 
@@ -30,9 +30,9 @@
  Developer | UX/UI Designer | Tech Entusiast
  </p>
 
-<hr style="height: 1px; border: none; background-color:#42536b;" />
+<hr style="height: 0.5px; border: none; background-color:#42536b;" />
 
-<div align="">
+<div align="center">
 
 #### 🎯 Skills
 
@@ -48,24 +48,28 @@
 
 </div>
 
-<div align="" >
+<div align="center" >
 
 #### 📈 Git Hub Stats
 
-<img  
-    src="https://github-readme-stats.vercel.app/api?username=juansillva&show_icons=true&hide_title=true&hide_border=true&bg_color=2e2e2e&title_color=42536b&text_color=e5e5e5&icon_color=42536b"/>
-
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansillva&layout=compact&hide_border=true&bg_color=2e2e2e&title_color=42536b&text_color=e5e5e5"  
-     />
+<a href="https://github.com/juansillva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juansillva&theme=react&hide_border=false&title_color=42536b&icon_color=42536b&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansillva&theme=react&hide_border=false&title_color=42536b&layout=compact"/>
+</a>
 
 </div>
 
-<hr style="height: 1px; border: none; background-color:#42536b;" />
-
- <img src="./assets/Mario_Hello_Big.gif" alt="Behance" width="32" />
+<hr style="height: 0.5px; border: none; background-color:#42536b;" />
 <div align="center">
-  <img src="https://raw.githubusercontent.com/juansillva/juansillva/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark mode" />
+ <img src="./assets/Mario_Hello_Big.gif" alt="Behance" width="32" />
+
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42536b&height=120&section=footer" alt="footer"/>
+
