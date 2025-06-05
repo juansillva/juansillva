@@ -27,7 +27,7 @@
  </div>
 
 <p align="center">
- Developer | UX/UI Designer | Tech Entusiast
+ Software Developer
  </p>
 
 <hr style="height: 0.5px; border: none; background-color:#42536b;" />
