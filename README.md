@@ -6,12 +6,7 @@
     &nbsp;
     <img src="./assets/Earth.gif" width="24px" />
   </div>
-  <br/>
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Hello, World!;I'am+Juan!;Welcome+to+my+Github!&color=eeeeee&background=" 
-    alt="Typing SVG" 
-    style="border-radius: 6px;" 
-  
+    <br/>
   </div>
 
 <div align="center">
