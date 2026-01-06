@@ -52,10 +52,10 @@
 
 #### 📈 Git Hub Stats
 
-<a href="https://github.com/juansillva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juansillva&theme=react&hide_border=false&title_color=42536b&icon_color=42536b&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansillva&theme=react&hide_border=false&title_color=42536b&layout=compact"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juansillva&theme=react&hide_border=false&title_color=42536b&icon_color=42536b&include_all_commits=false&count_private=false"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juansillva&theme=react&hide_border=false&title_color=42536b&layout=compact"/>
+
 
 </div>
 
