@@ -22,7 +22,7 @@
  </div>
 
 <p align="center">
- Software Developer
+ Fullstack Developer
  </p>
 
 <hr style="height: 0.5px; border: none; background-color:#42536b;" />
